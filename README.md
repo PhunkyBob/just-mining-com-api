@@ -1,4 +1,4 @@
-# Just-Mining-Py
+# Just-Mining-Com-API
 Python wrapper for just-mining.com API. 
 
 Official documentation: https://docs.just-mining.com/
